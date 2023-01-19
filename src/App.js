@@ -1,12 +1,12 @@
 // Imports
-import { BrowserRouter, Route, Router, Switch } from 'react-router-dom'
+import { BrowserRouter, Route, Switch } from 'react-router-dom'
 // Pages 
-import Home from './Pages/index/Home'
-import Dashboard from './Pages/dashboard/Dashboard'
-import FAQs from './Pages/FAQs/FAQs'
-import ProductDetails from './Pages/productDetails/ProductDetails'
-import Shop from './Pages/shopall/Shop'
-import Wip from './Pages/wip/Wip'
+import Home from './pages/index/Home'
+import Dashboard from './pages/dashboard/Dashboard'
+import FAQs from './pages/FAQs/FAQs'
+import ProductDetails from './pages/productDetails/ProductDetails'
+import Shop from './pages/shopall/Shop'
+import Wip from './pages/wip/Wip'
 // & Components
 import Navbar from './components/Navbar'
 
