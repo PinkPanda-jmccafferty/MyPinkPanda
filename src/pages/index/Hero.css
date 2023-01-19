@@ -1,0 +1,9 @@
+.pink{
+    color: var(--primary)
+}
+h1{
+    color: var(--secondary)
+}
+.btn_div{
+    background-image: url("../../assets/waves.png");
+}

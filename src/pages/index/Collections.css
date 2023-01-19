@@ -1,0 +1,10 @@
+.collections {
+    background-color: var(--secondary);
+    min-height: 369px ;
+}
+.collections p {
+    max-width: fit-content;
+    border-radius: 50%;
+    background-color: white;
+    margin: auto;
+}

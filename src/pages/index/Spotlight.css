@@ -1,0 +1,12 @@
+.spotlights img{
+    display: block;
+    border-radius: 20px;
+    margin: 22px 20px;
+    max-width: 350px;
+    max-height: 174px;
+}
+@media (min-width: 768px) {
+    .spotlights img{
+        display: flex;
+    }
+}
